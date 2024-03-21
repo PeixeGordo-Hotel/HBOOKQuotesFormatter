@@ -1,0 +1,5 @@
+tkinter
+ttkthemes
+tkcalendar
+selenium
+beautifulsoup4
